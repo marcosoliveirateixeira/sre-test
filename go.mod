@@ -1,4 +1,4 @@
-module gitlab.com/marcosoliveirateixeira/sre-test
+module github.com/marcosoliveirateixeira/sre-test
 
 go 1.18
 
