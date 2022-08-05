@@ -182,7 +182,6 @@ func testTontoHTTP(host, port, authToken string) bool {
 }
 
 // testTontoTCP create a connection with Tonto TCP services and test
-// the authentication and sends a message to test the echo, returns TRUE if
 // all testing rules works.
 func testTontoTCP(host, port, authToken string) bool {
 	// Parse the address.
