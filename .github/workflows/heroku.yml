@@ -28,4 +28,4 @@ jobs:
           HD_SMTP_HOST: ${{secrets.SMTP_HOST}}
           HD_SMTP_EMAIL: ${{secrets.SMTP_EMAIL}}
           HD_SMTP_USER: ${{secrets.SMTP_USER}}
-          HD_SMTP_PASSWORD: ${{secrets.SMTP_PASSWORD}}
+          HD_SMTP_PASSWORD: ${{secrets.SMTP_PASSWORD}} 
